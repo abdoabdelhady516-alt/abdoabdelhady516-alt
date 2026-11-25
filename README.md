@@ -1,56 +1,58 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Abdo+Abdelhady&center=true&width=500&height=40&duration=4000&pause=2000" alt="Typing SVG" /></a><br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer&center=true&width=500&height=40&duration=4000&pause=2000" alt="Typing SVG" /></a><br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AWS+%7C+Cloud+%7C+ROS2+%7C+Robotics+%7C+Data+Analysis&center=true&width=500&height=40&duration=4000&pause=2000" alt="Typing SVG" /></a>
-</p>
+# Abdo Abdelhady
+
+**Electronics & Communications Engineer (final year) | Cloud | Robotics | Data**
+
+Based in Egypt. I build things at the edge between hardware, networks and the cloud, and I am looking for a junior cloud role where I can keep learning on real systems.
 
 ---
 
-## GitHub Stats
+## About
 
-<p align="center">
-  <a href="https://github.com/abdoabdelhady516-alt"><img src="https://github-readme-stats.shion.dev/api?username=abdoabdelhady516-alt&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" /></a><br/>
-  <a href="https://github.com/abdoabdelhady516-alt"><img src="https://streak-stats.demolab.com/?user=abdoabdelhady516-alt&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a><br/>
-  <a href="https://github.com/abdoabdelhady516-alt"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdoabdelhady516-alt&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /></a>
-</p>
+- Fourth-year Electronics and Communications Engineering student.
+- AWS Certified Cloud Practitioner (October 2026), plus AWS Academy cloud coursework.
+- Data analysis training at ITI, and mobile network courses.
+- Graduation project in autonomous robotics with ROS 2.
 
-## Tech Stack
+## Focus areas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=plastic&logo=ros&logoColor=white" alt="ROS2"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black" alt="Linux"/><br/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" alt="Arduino"/>
-</p>
+| Area | What I work with |
+| --- | --- |
+| Cloud | AWS fundamentals, core services, cloud architecture basics |
+| Robotics | ROS 2, Gazebo simulation, URDF/xacro robot models, navigation maps |
+| Programming | Python, Bash, Linux |
+| Data | Data analysis and visualization |
+| Networks | Mobile and wireless network fundamentals |
 
-## Projects I've Contributed To
+## Featured project
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [Robotivia-Hackathon-Competition](https://github.com/SOUL-BYtee/Robotivia-Hackathon-Competition) | Multi-functional autonomous robot: line following, obstacle avoidance, and object transportation with a robotic arm. 1st place at Robotevia Hackathon. | C++ |
-| [IEEEZSB-Fire-Fighting-Robot](https://github.com/SOUL-BYtee/IEEEZSB-Fire-Fighting-Robot) | IEEE Final Rookies Competition fire-fighting robot. | C++ |
-| [FingerPrint-Recognition](https://github.com/SOUL-BYtee/FingerPrint-Recognition) | Fingerprint recognition system. | MATLAB |
-| [Catch-The-Led](https://github.com/SOUL-BYtee/Catch-The-Led) | Two-player digital logic game using FSM, flip-flops, and timer 555 without microcontrollers. | Digital Logic |
-| [Innove-Egypt-Entrepreneurship](https://github.com/SOUL-BYtee/Innove-Egypt-Entrepreneurship) | Smart mobile app helping parents monitor children's behavior and reduce screen time. | Mobile |
-| [System-Health-Check-Up](https://github.com/SOUL-BYtee/System-Health-Check-Up) | Automated system health monitoring tool with reporting and email notifications. | Bash |
-| [ross2](https://github.com/abdoabdelhady516-alt/ross2) | ROS2 robot package: URDF/xacro models, Gazebo simulation, and navigation goal scripts. | ROS2 |
+### [ross2](https://github.com/abdoabdelhady516-alt/ross2)
 
----
+A ROS 2 skid-steer robot simulated in Gazebo. Includes the URDF/xacro model, Gazebo and RViz launch files, a ROS-Gazebo bridge config (`/clock`, `/cmd_vel`, `/odom`, `/tf`), a saved map, and a Python goal-sending node.
 
-## GitHub Trophies
+## Team projects
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=abdoabdelhady516-alt&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /></a>
-</p>
+Projects I contributed to with teammates. Forks on my profile link to the original repositories.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdoabdelhady516-alt&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+| Project | Repository |
+| --- | --- |
+| Fire-fighting robot | [IEEEZSB-Fire-Fighting-Robot](https://github.com/abdoabdelhady516-alt/IEEEZSB-Fire-Fighting-Robot) |
+| Fingerprint recognition | [FingerPrint-Recognition](https://github.com/abdoabdelhady516-alt/FingerPrint-Recognition) |
+| Robotivia hackathon | [Robotivia-Hackathon-Competition](https://github.com/abdoabdelhady516-alt/Robotivia-Hackathon-Competition) |
+| Entrepreneurship competition | [Innove-Egypt-Entrepreneurship](https://github.com/abdoabdelhady516-alt/Innove-Egypt-Entrepreneurship) |
+| System health check | [System-Health-Check-Up](https://github.com/abdoabdelhady516-alt/System-Health-Check-Up) |
+| LED game | [Catch-The-Led](https://github.com/abdoabdelhady516-alt/Catch-The-Led) |
+
+## Currently
+
+- Finishing my ROS 2 graduation project
+- Building hands-on AWS projects
+- Applying for junior cloud roles in Egypt
+
+## Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
